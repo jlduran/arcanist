@@ -27967,7 +27967,7 @@
       "ext.min": "5.0.0",
       "ext.max": null,
       "php.min": "5.0.0",
-      "php.max": null
+      "php.max": "8.4.0"
     },
     "E_USER_DEPRECATED": {
       "ext.name": "Core",
